@@ -1,15 +1,15 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: '[Bug report]'
+title: ':bug: '
 labels: 'bug: pending triage'
 assignees: ''
 
 ---
 
-<!-- 如果不按照模板书写很可能将直接 close -->
+<!-- 为了提高问题的解决效率，我们衷心希望你能够按照模板来书写 Issue -->
 
-- [ ] 我确认这是一个 issue 而不是一个 problem
+<!-- 这有利于我们更快地找到问题所在，节省了不必要的额外问询时间 -->
 
 ## 调用方式
 
@@ -20,6 +20,12 @@ assignees: ''
 <!-- 请尽可能使用 Markdown 语法来进行书写 -->
 
 <!-- 代码段一定要使用 ``` 包裹 -->
+
+## 环境信息
+
+- OS： 操作系统类型及其版本号
+- Python： Python 版本号
+- Others： 其它信息
 
 ## 问题简述
 
